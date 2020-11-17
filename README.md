@@ -1,1 +1,1 @@
-#Node js and react js firebase google auth authentication
+#Node and react js firebase google authentication
